@@ -90,5 +90,5 @@ machine-learning-learning/
 
 **Rich Benjamin**  
 📧  richmwendwa03@gmail.com
-🔗 [@yourusername](https://github.com/RichBen03)
+🔗 [Rich's Github](https://github.com/RichBen03)
 
